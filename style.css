@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+}
+
+main {
+    margin: 15px;
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.imagemSua {
+    margin-top: 15px;
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+}
+
+
+.nome {
+    margin: 20px
+}
+
+.sobreMim .paragrafo {
+    overflow: scroll;
+    height: 200px;
+}
+
+.minhasHabilidades {
+    margin: 50px;
+}
+
+.MH {
+    text-align: left;
+}
+
+.container {
+    display: flex;
+    flex-direction: 0
+}
+
+
+footer {
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    padding: 1px;
+    text-align: center;
+}
