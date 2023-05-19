@@ -25,13 +25,16 @@ header {
     margin: 20px
 }
 
-.sobreMim .paragrafo {
+.sobreMim
+ 
+.paragrafo {
     overflow: scroll;
     height: 200px;
+    width: 900px;
 }
 
 .minhasHabilidades {
-    margin: 50px;
+    margin: 80px;
 }
 
 .MH {
